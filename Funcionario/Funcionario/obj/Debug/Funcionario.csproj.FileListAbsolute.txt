@@ -1,0 +1,7 @@
+D:\Vscode C#\Funcionario\Funcionario\bin\Debug\Funcionario.exe.config
+D:\Vscode C#\Funcionario\Funcionario\bin\Debug\Funcionario.exe
+D:\Vscode C#\Funcionario\Funcionario\bin\Debug\Funcionario.pdb
+D:\Vscode C#\Funcionario\Funcionario\obj\Debug\Funcionario.csproj.AssemblyReference.cache
+D:\Vscode C#\Funcionario\Funcionario\obj\Debug\Funcionario.csproj.CoreCompileInputs.cache
+D:\Vscode C#\Funcionario\Funcionario\obj\Debug\Funcionario.exe
+D:\Vscode C#\Funcionario\Funcionario\obj\Debug\Funcionario.pdb

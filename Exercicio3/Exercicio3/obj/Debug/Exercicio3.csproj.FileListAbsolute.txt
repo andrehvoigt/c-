@@ -1,0 +1,7 @@
+D:\Vscode C#\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe.config
+D:\Vscode C#\Exercicio3\Exercicio3\bin\Debug\Exercicio3.exe
+D:\Vscode C#\Exercicio3\Exercicio3\bin\Debug\Exercicio3.pdb
+D:\Vscode C#\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csproj.AssemblyReference.cache
+D:\Vscode C#\Exercicio3\Exercicio3\obj\Debug\Exercicio3.csproj.CoreCompileInputs.cache
+D:\Vscode C#\Exercicio3\Exercicio3\obj\Debug\Exercicio3.exe
+D:\Vscode C#\Exercicio3\Exercicio3\obj\Debug\Exercicio3.pdb
